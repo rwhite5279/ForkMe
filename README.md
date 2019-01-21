@@ -1,6 +1,7 @@
-# ForkMe
+ForkMe
+========
 
-This repository is an assignment for Polytechnic School's 2017-2018 Computer Science classes.
+This repository is an assignment for Polytechnic School's 2018-2019 Computer Science classes.
 
 Instructions for Students
 -------------------------
